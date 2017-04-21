@@ -1,2 +1,2 @@
 # hello-world
-a short description
+This was once "a short description", but it is now a bit longer.
